@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<defs><linearGradient id="bg" x1="0.85" y1="0" x2="0.15" y2="1"><stop offset="0" stop-color="#C4B5FD"/><stop offset="1" stop-color="#4527C9"/></linearGradient></defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<circle cx="840" cy="170" r="1300" fill="#fff" opacity="0.04"/>
+<circle cx="840" cy="170" r="740" fill="#fff" opacity="0.07"/>
+<circle cx="840" cy="170" r="550" fill="#fff" opacity="0.09"/>
+<circle cx="840" cy="170" r="375" fill="#fff" opacity="0.12"/>
+<circle cx="840" cy="170" r="220" fill="#fff" opacity="0.16"/>
+<g opacity="1"><g transform="translate(512 512) scale(8) translate(-64.75 -65) translate(-6 6)"><path d="M28 80C42 56 64 38 94 32C80 46 64 60 44 84Z" fill="#fff"/></g></g>
+<g opacity="0.78"><g transform="translate(512 512) scale(8) translate(-64.75 -65) translate(-6 6)"><path d="M42 88C56 70 72 56 94 50C82 62 70 74 56 90Z" fill="#fff"/></g></g>
+<g opacity="0.58"><g transform="translate(512 512) scale(8) translate(-64.75 -65) translate(-6 6)"><path d="M56 94C66 84 78 74 92 68C84 78 76 86 68 96Z" fill="#fff"/></g></g>
+<g opacity="1"><g transform="translate(512 512) scale(8) translate(-64.75 -65)"><path d="M92 28C93 34 95 36 101 37C95 38 93 40 92 46C91 40 89 38 83 37C89 36 91 34 92 28Z" fill="#fff"/></g></g>
+<g opacity="0.85"><g transform="translate(512 512) scale(8) translate(-64.75 -65)"><path d="M103 50C103.6 53 104.5 54 107.5 54.5C104.5 55 103.6 56 103 59C102.4 56 101.5 55 98.5 54.5C101.5 54 102.4 53 103 50Z" fill="#fff"/></g></g>
+</svg>
